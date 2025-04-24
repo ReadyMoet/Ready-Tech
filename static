@@ -1,4 +1,0 @@
-static/css/ - For CSS files, especially style.css
-static/js/ - For JavaScript files like main.js, speech.js, qa.js, etc.
-static/images/ - For images, especially logo and icons
-static/manifest.json - For PWA support
