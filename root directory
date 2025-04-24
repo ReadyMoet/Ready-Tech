@@ -1,7 +1,0 @@
-app_new.py
-models_new.py
-config.py
-Procfile
-wsgi.py
-requirements.txt
-(and your static and templates folders)
