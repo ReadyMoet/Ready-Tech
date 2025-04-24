@@ -1,3 +1,0 @@
-migrations.py - For database migrations
-init_postgres.py - For database initialization
-gunicorn_config.py - For Gunicorn configuration
