@@ -1,8 +1,4 @@
-# Ready Tech Deployment Files Extraction Guide
 
-This guide will help you gather all the necessary files from your Replit project for deployment to Render.
-
-## Essential Files for Deployment
 
 ### Core Application Files
 1. `app_new.py` - Main Flask application
