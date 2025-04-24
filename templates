@@ -1,8 +1,0 @@
-templates/base.html - The base template that other templates extend
-templates/index.html - Homepage
-templates/equipment.html - Equipment selection page
-templates/troubleshooting.html - Troubleshooting workflow
-templates/solutions.html - Solutions page
-templates/reference.html - Reference materials page
-templates/buddy.html - Tech Assistant page
-templates/qa.html
